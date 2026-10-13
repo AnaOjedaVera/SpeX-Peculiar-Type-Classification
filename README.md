@@ -8,9 +8,14 @@ This repository accompanies the manuscript:
 
 **Ana V. Ojeda, Christopher A. Theissen, C. A. Guerrero, Juan J. Tapia, and T. Zhou**
 
+Published in *Applications of Machine Learning 2026*, Proceedings of SPIE, Vol. 14218, Article 1421815 (2026).
+
+**DOI:** https://doi.org/10.1117/12.3116063
+
 Presented as a poster at **SPIE Optics + Photonics 2026**, San Diego, California.
 
 ---
+
 
 ## Overview
 
