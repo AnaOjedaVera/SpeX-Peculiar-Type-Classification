@@ -1,5 +1,10 @@
 # SpeX Peculiar-Type Classification
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-8A2BE2)
+![SPIE 2026](https://img.shields.io/badge/SPIE-2026-0077B5)
+[![DOI](https://img.shields.io/badge/DOI-10.1117%2F12.3116063-B31B1B)](https://doi.org/10.1117/12.3116063)
+
 Machine-learning framework for the simultaneous classification of **spectral type** and **peculiar class** in low-mass stars and brown dwarfs using low-resolution near-infrared SpeX spectra.
 
 This repository accompanies the manuscript:
