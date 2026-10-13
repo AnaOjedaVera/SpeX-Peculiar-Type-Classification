@@ -1,6 +1,7 @@
 # SpeX Peculiar-Type Classification
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-8A2BE2)
 ![SPIE 2026](https://img.shields.io/badge/SPIE-2026-0077B5)
 [![DOI](https://img.shields.io/badge/DOI-10.1117%2F12.3116063-B31B1B)](https://doi.org/10.1117/12.3116063)
@@ -112,3 +113,19 @@ SpeX-Peculiar-Type-Classification/
 ├── SPIE_Manuscript.pdf
 ├── SPIE_Poster_36x42in.pdf
 └── README.md
+```
+
+---
+
+## Contact
+
+**Ana V. Ojeda Vera**  
+Doctoral Student in Data Science  
+CITEDI – Instituto Politécnico Nacional (IPN), Mexico  
+Email: **anaojedavera@gmail.com**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anaojedavera@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0748-9630)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HO17QvAAAAAJ&hl=es)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ana-V-Ojeda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaojedavera/)
